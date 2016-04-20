@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="firstColor" format="color"/>
+    <attr name="secondColor" format="color"/>
+    <attr name="circleWidth" format="dimension"/>
+    <attr name="splitSize" format="integer"/>
+    <attr name="account" format="integer"/>
+    <declare-styleable name="CustomView">
+        <attr name="firstColor"/>
+        <attr name="secondColor"/>
+        <attr name="circleWidth"/>
+        <attr name="splitSize"/>
+        <attr name="account"/>
+    </declare-styleable>
+</resources>
